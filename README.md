@@ -1,5 +1,5 @@
 # TableauProject1
-https://github.com/Upadhayay0211/TableauProject1/blob/main/Dashboard%201.png
+
 📈 Monthly KPI Dashboard – Tableau Public
 🔗 View Live Dashboard
 
@@ -28,3 +28,5 @@ Tableau Public: Dashboard creation, calculated fields, formatting
 Excel (Preprocessing): Data cleaning and structuring
 
 Visualization Principles: Emphasis on readability and stakeholder usability
+
+Show what the dashboard looks like. -![Alt text](https://github.com/Upadhayay0211/TableauProject1/blob/main/Dashboard%201.png)
